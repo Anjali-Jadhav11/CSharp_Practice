@@ -1,7 +1,0 @@
-E:\.net8\ArithmaticOperatorEx\ArithmaticOperatorEx\bin\Debug\ArithmaticOperatorEx.exe.config
-E:\.net8\ArithmaticOperatorEx\ArithmaticOperatorEx\bin\Debug\ArithmaticOperatorEx.exe
-E:\.net8\ArithmaticOperatorEx\ArithmaticOperatorEx\bin\Debug\ArithmaticOperatorEx.pdb
-E:\.net8\ArithmaticOperatorEx\ArithmaticOperatorEx\obj\Debug\ArithmaticOperatorEx.csproj.AssemblyReference.cache
-E:\.net8\ArithmaticOperatorEx\ArithmaticOperatorEx\obj\Debug\ArithmaticOperatorEx.csproj.CoreCompileInputs.cache
-E:\.net8\ArithmaticOperatorEx\ArithmaticOperatorEx\obj\Debug\ArithmaticOperatorEx.exe
-E:\.net8\ArithmaticOperatorEx\ArithmaticOperatorEx\obj\Debug\ArithmaticOperatorEx.pdb
