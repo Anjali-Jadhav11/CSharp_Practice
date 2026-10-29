@@ -1,0 +1,7 @@
+E:\.net8\AssignmentOperatorEx\AssignmentOperatorEx\bin\Debug\AssignmentOperatorEx.exe.config
+E:\.net8\AssignmentOperatorEx\AssignmentOperatorEx\bin\Debug\AssignmentOperatorEx.exe
+E:\.net8\AssignmentOperatorEx\AssignmentOperatorEx\bin\Debug\AssignmentOperatorEx.pdb
+E:\.net8\AssignmentOperatorEx\AssignmentOperatorEx\obj\Debug\AssignmentOperatorEx.csproj.AssemblyReference.cache
+E:\.net8\AssignmentOperatorEx\AssignmentOperatorEx\obj\Debug\AssignmentOperatorEx.csproj.CoreCompileInputs.cache
+E:\.net8\AssignmentOperatorEx\AssignmentOperatorEx\obj\Debug\AssignmentOperatorEx.exe
+E:\.net8\AssignmentOperatorEx\AssignmentOperatorEx\obj\Debug\AssignmentOperatorEx.pdb
